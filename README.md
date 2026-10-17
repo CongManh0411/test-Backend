@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MiniShop Basic — mốc b2-start (đầu buổi 2)
 
 Project nhỏ để học PHP từng buổi. Cấu trúc, tên file, tên hàm **giống hệt MiniShop thật**,
@@ -67,3 +68,6 @@ minishop-basic/
 
 Lưu ý: trang quản lý sản phẩm chưa có đăng nhập và phân quyền — chỉ chạy trên máy cá nhân.
 Buổi 3 bổ sung require_role() và CSRF.
+=======
+# test-Backend
+>>>>>>> 37a2b27db53250bb58d340f2b57b2a387d6fa265
